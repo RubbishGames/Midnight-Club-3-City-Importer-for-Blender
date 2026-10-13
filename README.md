@@ -31,7 +31,7 @@ Point it at your game ISO, `ASSETS.DAT`, or an extracted city `.pck`, pick a cit
 
 ## Installation
 
-1. Download `mc3_city_importer_claude_9.py` (or rename it to something like `mc3_city_importer.py`).
+1. Download `mc3_city_importer.py`.
 2. In Blender: **Edit > Preferences > Add-ons > Install...** and select the file. (In Blender 4.2+, use **Install from Disk...** from the dropdown in the top-right of the Add-ons tab.)
 3. Enable **Import-Export: Midnight Club 3 City Importer**.
 
